@@ -1,0 +1,6287 @@
+[
+  {
+    "symbol": "A32",
+    "name": "32 JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "AAA",
+    "name": "An Phat Plastic and Green Environment Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "AAH",
+    "name": "Hop Nhat Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "AAM",
+    "name": "Mekong Fisheries JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "AAS",
+    "name": "SmartInvest Securities Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "AAT",
+    "name": "Tien Son Thanh Hoa Group Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "AAV",
+    "name": "AAV Group JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "ABB",
+    "name": "An Binh Commercial Joint Stock Bank",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "ABC",
+    "name": "VMG Media JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "ABI",
+    "name": "Agriculture Bank Insurance JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "ABR",
+    "name": "Viet Brand Invest Joint Stock Co",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "ABS",
+    "name": "Binh Thuan Agriculture Services JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "ABT",
+    "name": "Bentre Aquaproduct Import and Exporrt Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "ABW",
+    "name": "An Binh Securities Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "ACB",
+    "name": "Asia Commercial Joint Stock Bank",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "ACC",
+    "name": "ACC Binh Duong Investment & Construction JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "ACE",
+    "name": "An Giang Centrifugal Concrete Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "ACG",
+    "name": "An Cuong Wood - Working Joint Stock Co",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "ACL",
+    "name": "Cuulong Fish JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "ACM",
+    "name": "A Cuong Mineral Group JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "ACS",
+    "name": "Architects & Construction Service Corporation",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "ACV",
+    "name": "Airports Corporation of Vietnam",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "ADC",
+    "name": "Art Design & Communication JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "ADG",
+    "name": "Clever Group Corporation",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "ADP",
+    "name": "A Dong Paint JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "ADS",
+    "name": "Damsan Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "AFX",
+    "name": "An Giang Agriculture and Food Import - Export Joint Stock Co",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "AG1",
+    "name": "28.1 JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "AGF",
+    "name": "An Giang Fisheries Import & Export JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "AGG",
+    "name": "An Gia Real Estate Investment and Development JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "AGM",
+    "name": "An Giang Import-Export Co.",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "AGP",
+    "name": "Agimexpharm Pharmaceutical Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "AGR",
+    "name": "AgriBank Securities JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "AGX",
+    "name": "Saigon Export Foodstuffs & Agricultural Products JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "AIG",
+    "name": "AIG Asia Ingredients Corp.",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "ALC",
+    "name": "AuLac Corporation",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "ALT",
+    "name": "Alta Co.",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "ALV",
+    "name": "MCST Group JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "AMC",
+    "name": "Asia Mineral JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "AMP",
+    "name": "Armephaco Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "AMS",
+    "name": "AMECC Mechanical Construction JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "AMV",
+    "name": "American Vietnamese Biotech, Inc.",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "ANT",
+    "name": "An Giang Fruit - Vegetables & Foodstuff JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "ANV",
+    "name": "Nam Viet Corp.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "APC",
+    "name": "An Phu Irradiation JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "APF",
+    "name": "Quang Ngai Agricultural Products And Foodstuff Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "APG",
+    "name": "APG Securities Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "APH",
+    "name": "An Phat Holdings JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "API",
+    "name": "Asia - Pacific Investment Joint Stock Company",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "APP",
+    "name": "Additives & Petroleum Products JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "APS",
+    "name": "Securities Corporation Asia Pacific",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "APT",
+    "name": "Saigon Aquatic Products Trading Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "ASG",
+    "name": "ASG Corp.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "ASM",
+    "name": "Sao Mai Group Corporation",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "ASP",
+    "name": "An Pha Petroleum Group JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "AST",
+    "name": "Taseco Air Services JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "ATA",
+    "name": "NTACO Corp.",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "ATG",
+    "name": "An Truong An JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "AVC",
+    "name": "A Vuong Hydropower Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "AVG",
+    "name": "Europe Vietnam International Fertilizer JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BAB",
+    "name": "Bac A Commercial Joint Stock Bank",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "BAF",
+    "name": "BAF Viet Nam Agriculture Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "BAL",
+    "name": "Beer - Alcohol - Beverage Packaging Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BBH",
+    "name": "Hoang Thach Joint Stock Bagging Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BBM",
+    "name": "Ha Noi - Nam Dinh Beer Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BBS",
+    "name": "Vicem Packaging But Son JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "BBT",
+    "name": "Bach Tuyet Cotton Corp.",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BCA",
+    "name": "BCH JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BCB",
+    "name": "397 Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BCC",
+    "name": "BimSon Cement JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "BCE",
+    "name": "Binh Duong Construction & Civil Engineering JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "BCF",
+    "name": "Bich Chi Food Co",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "BCM",
+    "name": "Becamex Investment And Industrial Development Group",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "BCP",
+    "name": "ENLIE Pharmaceutical JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BCR",
+    "name": "BCG Land Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BDG",
+    "name": "Protrade Garment Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BDT",
+    "name": "DongThap Building Materials & Construction JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BDW",
+    "name": "Binhdinh Water Supply and Sewerage Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BFC",
+    "name": "Binh Dien Fertilizer JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "BGE",
+    "name": "BCG Energy Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BGW",
+    "name": "Bac Giang Clean Water JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BHA",
+    "name": "Bac Ha Hydropower JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BHI",
+    "name": "Sai Gon - Ha Noi Insurance Corporation",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BHN",
+    "name": "Hanoi Beer Alcohol and Beverage JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "BIC",
+    "name": "BIDV Insurance Corp.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "BID",
+    "name": "Joint Stock Commercial Bank for Investment and Development of Vietnam",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "BIG",
+    "name": "BIG Invest Group Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BIO",
+    "name": "Nha Trang Vaccines And Biological Products JointStock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BKC",
+    "name": "Bac Kan Mineral JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "BKG",
+    "name": "BKG Viet Nam Investment Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "BLF",
+    "name": "Bac Lieu Fisheries JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BLI",
+    "name": "Bao Long Insurance Corporation",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BLN",
+    "name": "Lien Ninh Transport and Service Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BLT",
+    "name": "Binh Dinh Food Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BMC",
+    "name": "Binh Dinh Minerals JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "BMD",
+    "name": "Binh Thuan Environmental Urban Service Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BMF",
+    "name": "Dong Nai Building Material and Fuel Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BMI",
+    "name": "Bao Minh Insurance Corp.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "BMJ",
+    "name": "Becamex Mineral JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BMP",
+    "name": "Binh Minh Plastics JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "BMS",
+    "name": "BaoMinh Securities Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BMV",
+    "name": "Vinafood 1 Flour Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BNA",
+    "name": "Bao Ngoc Investment Production Corp.",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "BNW",
+    "name": "Bac Ninh Clean Water Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BOT",
+    "name": "Thai Ha Bridge BOT JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BQB",
+    "name": "Hanoi - Quang Binh Beer Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BQP",
+    "name": "Binh Thuan High Quality Plastic Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BRC",
+    "name": "Ben Thanh Rubber JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "BRR",
+    "name": "BaRia Rubber Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BRS",
+    "name": "Ba Ria Urban Service joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BSA",
+    "name": "Buon Don Hydropower JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BSH",
+    "name": "Sai Gon - Ha Noi Beer Corporation",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BSI",
+    "name": "BIDV Securities JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "BSL",
+    "name": "Saigon Songlam Beer JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BSP",
+    "name": "Sai Gon - Phu Tho beer JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BSQ",
+    "name": "Sai gon - Quang ngai Beer Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BSR",
+    "name": "Binh Son Refining & Petrochemical Co. Ltd.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "BT1",
+    "name": "Central Plant Protection JSC No 1",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BTB",
+    "name": "Ha noi - Thai Binh Beer Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BTD",
+    "name": "Thuduc Centrifugal Concrete Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BTH",
+    "name": "Hanoi Transformer Manufacturing & Electric Material JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BTN",
+    "name": "Binh Dinh Bitco investment Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BTP",
+    "name": "Ba Ria Thermal Power JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "BTS",
+    "name": "Vicem But Son Cement Joint Stock Company",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "BTT",
+    "name": "Ben Thanh Trading & Service JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "BTU",
+    "name": "Bentre urban project joint stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BTV",
+    "name": "Ben Thanh Tourist Service Corporation",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BTW",
+    "name": "Ben Thanh Water Supply JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "BVB",
+    "name": "Viet Capital Commercial Joint Stock Bank",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BVG",
+    "name": "BVG Investment JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BVH",
+    "name": "Bao Viet Holdings",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "BVL",
+    "name": "BV Land JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BVN",
+    "name": "Vietnam Cotton Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BVS",
+    "name": "Bao Viet Securities JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "BWA",
+    "name": "Bao Loc Supply Sewerage and Construction Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "BWE",
+    "name": "Binh Duong Water Environment Corporation Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "BWS",
+    "name": "Ba Ria - Vung Tau Water Supply Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "C32",
+    "name": "3-2 Investment and Construction JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "C47",
+    "name": "Construction JSCNo. 47",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "C4G",
+    "name": "Cienco 4 JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "C69",
+    "name": "1369 Construction JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "C92",
+    "name": "Construction & Investment JSC No. 492",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "CAD",
+    "name": "Cadovimex Seafood Import-Export and Processing Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "CAG",
+    "name": "An Giang Port JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "CAP",
+    "name": "Yen Bai Agro-Forestry Products & Foodstuff Corporation",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "CAT",
+    "name": "Seaprimexco-Viet Nam",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "CBS",
+    "name": "Cao Bang Sugar JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "CC1",
+    "name": "Construction Corporation No.1 Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "CCA",
+    "name": "Can Tho Import Export Seafood Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "CCC",
+    "name": "CDC Construction JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "CCI",
+    "name": "Cuchi Commercial and Industrial Developing Investment Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "CCL",
+    "name": "Cuu Long Petro Urban Development & Investment Corp.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "CCM",
+    "name": "Can Tho Mineral & Cement JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "CCR",
+    "name": "Cam Ranh Port JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "CCS",
+    "name": "Brilliant Chip Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "CCT",
+    "name": "Can Tho Port Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "CDC",
+    "name": "Chuong Duong Corp.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "CDN",
+    "name": "Da Nang Port JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "CDO",
+    "name": "Consultancy Design and Urban Development Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "CDP",
+    "name": "Codupha Central Pharmaceutical Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "CDR",
+    "name": "Dong Nai Rubber Construction Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "CEN",
+    "name": "CENCON Viet Nam Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "CEO",
+    "name": "CEO Group JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "CET",
+    "name": "HTC Holding JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "CFM",
+    "name": "CFM Investment Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "CFV",
+    "name": "Thang Loi Coffee Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "CGV",
+    "name": "VINACEGLASS Joint Stock Co.",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "CHC",
+    "name": "Cam Ha JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "CHP",
+    "name": "Central Hydropower JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "CHS",
+    "name": "Ho Chi Minh City Public Lighting Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "CI5",
+    "name": "No.5 Construction Investment JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "CIA",
+    "name": "Cam Ranh International Airport Services JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "CID",
+    "name": "Construction Corporation and Infrastructure Development",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "CIG",
+    "name": "COMA18 JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "CII",
+    "name": "Ho Chi Minh City Infrastructure Investment JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "CIP",
+    "name": "Construction And Industrial Production Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "CK8",
+    "name": "120 Mechanical Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "CKA",
+    "name": "An Giang Mechanical Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "CKD",
+    "name": "Dong Anh Mechanical JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "CKG",
+    "name": "CIC Group Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "CKV",
+    "name": "Cokyvina Joint Stock Company",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "CLC",
+    "name": "Cat Loi JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "CLH",
+    "name": "VVMI La Hien Cement Joint Stock Company",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "CLI",
+    "name": "CLI",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "CLL",
+    "name": "Cat Lai Port Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "CLM",
+    "name": "Vinacomin - Coal Import Export Joint Stock Company",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "CLW",
+    "name": "Cho Lon Water Supply JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "CLX",
+    "name": "Cho Lon Investment and Import Export Corporation",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "CMC",
+    "name": "CMC Investment Joint Stock Company",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "CMD",
+    "name": "Construction Material & Interior Decoration JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "CMF",
+    "name": "Cholimex Food Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "CMG",
+    "name": "CMC Corporation",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "CMI",
+    "name": "CMISTONE Vietnam JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "CMM",
+    "name": "Camimex JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "CMN",
+    "name": "Colusa - Miliket Foodstuff Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "CMS",
+    "name": "CMH Vietnam Group Joint Stock Company",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "CMT",
+    "name": "Information & Networking Technology JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "CMV",
+    "name": "Camau Trading JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "CMW",
+    "name": "Ca Mau Water Supply Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "CMX",
+    "name": "Ca Mau Group Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "CNC",
+    "name": "Traphaco High Tech JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "CNG",
+    "name": "CNG Vietnam Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "CNN",
+    "name": "Consultant & Inspection JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "CNT",
+    "name": "CNT Group Corp.",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "COM",
+    "name": "Materials-Petroleum JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "CPC",
+    "name": "Can Tho Pesticides JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "CPI",
+    "name": "Cai Lan Port Investment Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "CQN",
+    "name": "Quang Ninh Port Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "CQT",
+    "name": "VVMI Quan Trieu Cement Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "CRC",
+    "name": "Create Capital Vietnam Joint Stock Company Ltd",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "CRE",
+    "name": "Century Land Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "CRV",
+    "name": "CRV Real Estate Group Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "CSC",
+    "name": "Cotana Group Joint Stock Company",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "CSI",
+    "name": "Viet Nam Construction Securities Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "CSM",
+    "name": "Southern Rubber Industry JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "CST",
+    "name": "Cao Son Coal Joint Stock Co",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "CSV",
+    "name": "South Basic Chemicals Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "CT3",
+    "name": "Project 3 Construction and Investment Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "CT6",
+    "name": "Construction JSC No 6",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "CTB",
+    "name": "Haiduong Pump Manufacturing JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "CTD",
+    "name": "Coteccons Construction JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "CTF",
+    "name": "City Auto Corporation",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "CTG",
+    "name": "Vietnam Joint Stock Commercial Bank for Industry and Trade",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "CTI",
+    "name": "Cuongthuan Idico Development",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "CTP",
+    "name": "CTP Group Corporation",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "CTR",
+    "name": "Viettel Construction JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "CTS",
+    "name": "VietinBank Securities JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "CTT",
+    "name": "Vinacomin - Machinery JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "CTW",
+    "name": "Can Tho Water Supply - Sewerage Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "CTX",
+    "name": "Vietnam Investment Construction & Trading JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "CVN",
+    "name": "Vinam Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "CVT",
+    "name": "CMC Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "D11",
+    "name": "Real Estate 11 JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "D2D",
+    "name": "Industrial Urban Development Joint Stock Company No. 2",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "DAD",
+    "name": "Danang Education Development & Investment JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "DAE",
+    "name": "Educational Book JSC in Da Nang City",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "DAH",
+    "name": "Dong A Hotel Group JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "DAS",
+    "name": "Da Nang Petroleum Machinery - Technology JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "DAT",
+    "name": "Travel Investment & Seafood Development Corp.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "DBC",
+    "name": "DABACO Group",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "DBD",
+    "name": "Binh Dinh Pharmaceutical & Medical Equipment JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "DBT",
+    "name": "Ben Tre Pharmaceutical JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "DC1",
+    "name": "Development Investment Construction number 1 Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "DC2",
+    "name": "Development Investment Construction No. 2 JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "DC4",
+    "name": "DIC Holdings Construction JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "DCF",
+    "name": "Design and Construction Join Stock Co No.1",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "DCG",
+    "name": "Dap Cau Garment Corporation Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "DCL",
+    "name": "Cuu Long Pharmaceutical JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "DCM",
+    "name": "PetroVietnam Ca Mau Fertilizer Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "DCR",
+    "name": "Cosevco Ceramic Tiles Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "DCS",
+    "name": "Dai Chau JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "DCT",
+    "name": "Dong Nai RoofSheet & Construction Material Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "DCV",
+    "name": "Dragon Capital Vietfund Management Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "DDB",
+    "name": "Dong Duong Construction And Trading Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "DDG",
+    "name": "Indochine Import Export Investment Industrial JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "DDH",
+    "name": "Hai Phong Waterway Traffic Assurance Joint StockCo",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "DDM",
+    "name": "Dong Do Marine Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "DDN",
+    "name": "Da Nang Pharmaceutical Medical Equipment JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "DDV",
+    "name": "DAP-VINACHEM Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "DFC",
+    "name": "Dong Anh C&F Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "DFF",
+    "name": "Dua Fat Group Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "DGC",
+    "name": "Duc Giang Chemicals Group Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "DGT",
+    "name": "Dona Transportation Construction JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "DGW",
+    "name": "Digiworld Corp.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "DHA",
+    "name": "Hoa An Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "DHB",
+    "name": "Ha Bac Nitrogenous Fertilizer & Chemicals Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "DHC",
+    "name": "Dong Hai JSC of Ben Tre",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "DHD",
+    "name": "Hai Duong Pharmaceutical Medical Material Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "DHG",
+    "name": "DHG Pharmaceutical Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "DHM",
+    "name": "Duong Hieu Trading & Mining JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "DHN",
+    "name": "Ha Noi Pharma Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "DHP",
+    "name": "Hai Phong Electrical Mechanical JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "DHT",
+    "name": "Ha Tay Pharmaceutical JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "DIC",
+    "name": "DIC Investment & Trading JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "DID",
+    "name": "DIC-Dong Tien JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "DIG",
+    "name": "Development Investment Joint Stock Corporation",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "DIH",
+    "name": "Development Investment Construction Hoi An JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "DKG",
+    "name": "Damik Group Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "DL1",
+    "name": "Alpha Seven Group Joint Stock Co",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "DLG",
+    "name": "Duc Long Gia Lai Group JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "DM7",
+    "name": "Det May 7 Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "DMC",
+    "name": "Domesco Medical Import-Export JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "DMN",
+    "name": "Domenal JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "DMS",
+    "name": "Southern Petroleum Chemicals Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "DNA",
+    "name": "An Giang Power and Water Supply Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "DNC",
+    "name": "Hai Phong Electricity Water Machine Assembly JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "DND",
+    "name": "Dong Nai Material & Building Investment Joint - Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "DNE",
+    "name": "Da Nang Urban Environment Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "DNH",
+    "name": "Da Nhim - Ham Thuan - Da Mi Hydro Power Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "DNM",
+    "name": "DANAMECO Medical JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "DNP",
+    "name": "Dong Nai Plastic Joint Stock Company",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "DNW",
+    "name": "Dong Nai Water Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "DOP",
+    "name": "Dong Thap Petroleum Transportations Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "DP1",
+    "name": "Central Pharmaceutical CPC1.JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "DP3",
+    "name": "Central Pharmaceutical JSC No. 3",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "DPC",
+    "name": "Da Nang Plastic Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "DPG",
+    "name": "Dat Phuong JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "DPH",
+    "name": "Hai Phong Pharmaceutical Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "DPM",
+    "name": "Petrovietnam Fertilizer & Chemicals Corp.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "DPR",
+    "name": "Dong Phu Rubber JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "DQC",
+    "name": "Dien Quang Lamp JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "DRC",
+    "name": "Danang Rubber Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "DRG",
+    "name": "DakLak Rubber Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "DRH",
+    "name": "DRH Holdings JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "DRI",
+    "name": "DakLak Rubber Investment Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "DRL",
+    "name": "Hydro Power JSC-Power No.3",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "DS3",
+    "name": "DS3 Joint Stock Company",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "DSC",
+    "name": "DSC Securities Corporation",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "DSD",
+    "name": "DHC Suoi Doi Corporation",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "DSE",
+    "name": "DNSE Securities Join Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "DSG",
+    "name": "Dap Cau Sheet Glass Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "DSH",
+    "name": "Dong Son Infrastructure Investment Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "DSN",
+    "name": "Dam Sen Water Park Corp.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "DSP",
+    "name": "Phu Tho Tourist Service JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "DST",
+    "name": "Sao Thang Long Investment JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "DTA",
+    "name": "De Tam Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "DTC",
+    "name": "Viglacera Dong Trieu JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "DTD",
+    "name": "Thanh Dat Investment Development JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "DTG",
+    "name": "Tipharco Pharmaceutical Joint Stock Co",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "DTI",
+    "name": "Duc Trung investment Joint stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "DTK",
+    "name": "Vinacomin Power Holding Corp",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "DTL",
+    "name": "Dai Thien Loc Corp.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "DTP",
+    "name": "Ha Noi CPC1 Pharmaceutical JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "DTT",
+    "name": "Do Thanh Technology Corp.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "DVC",
+    "name": "Hai Phong Port Trading And Services Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "DVG",
+    "name": "Dai Viet Paint Group Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "DVM",
+    "name": "Vietnam Medicinal Materials Joint Stock Company",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "DVN",
+    "name": "Viet Nam Pharmaceutical Corporation - Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "DVP",
+    "name": "Dinh Vu Port Investment & Development JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "DWC",
+    "name": "Daklak Water Supply JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "DWS",
+    "name": "Dong Thap Water Supply & Urban Environment JointStock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "DXG",
+    "name": "Dat Xanh Group JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "DXP",
+    "name": "Doan Xa Port Joint Stock Company",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "DXS",
+    "name": "Dat Xanh Real Estate Service JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "DXV",
+    "name": "Da Nang Construction Building Materials Vicem JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "E12",
+    "name": "Vneco12 Electricity Construction Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "E29",
+    "name": "29 Investment Construction And Engineering JointStock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "EBS",
+    "name": "Educational Book JSC in Hanoi City",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "ECO",
+    "name": "Viet Nam Eco Plastic Technology Joint Stock Co.",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "EFI",
+    "name": "Education Financial Investment JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "EIB",
+    "name": "Vietnam Export Import Commercial Joint Stock Bank",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "EIC",
+    "name": "EVN International Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "EID",
+    "name": "Hanoi Education Investment & Development JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "EIN",
+    "name": "Electricity Investment- Service-Trade Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "ELC",
+    "name": "ELCOM Technology Communications Corporation",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "EME",
+    "name": "Electro Mechanical Corporation",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "EMS",
+    "name": "VNPost Express Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "EVE",
+    "name": "Everpia JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "EVF",
+    "name": "EVN Finance Joint Stock Co",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "EVG",
+    "name": "Everland Group JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "EVS",
+    "name": "EVS Securities JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "F88",
+    "name": "F88 Investment JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "FCC",
+    "name": "Foodstuff Combina Torial Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "FCM",
+    "name": "Phan Vu Ha Nam Concrete JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "FCN",
+    "name": "FECON Corporation",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "FDC",
+    "name": "Foreign Trade Development & Investment Corp.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "FIC",
+    "name": "Fico Corporation - JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "FID",
+    "name": "Vietnam Enterprise Investment and Development Joint Stock Company",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "FIR",
+    "name": "First Real Estate JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "FIT",
+    "name": "F.I.T Group Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "FMC",
+    "name": "Sao Ta Foods Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "FOC",
+    "name": "FPT Online Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "FOX",
+    "name": "FPT Telecom JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "FPT",
+    "name": "FPT Corp.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "FRT",
+    "name": "FPT Digital Retail JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "FSO",
+    "name": "Viet Nam Fishery Mechanical Shipbuilding Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "FT1",
+    "name": "Machinery Spare Parts No1 Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "FTM",
+    "name": "Duc Quan Investment and Development JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "FTS",
+    "name": "FPT Securities Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "G20",
+    "name": "Vinh Phuc Textile Investmen JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "G36",
+    "name": "36 Corp.",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "GAS",
+    "name": "Petrovietnam Gas JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "GCB",
+    "name": "Petec Binh Dinh Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "GCF",
+    "name": "G.C. Food JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "GDA",
+    "name": "Ton Dong A Corporation",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "GDT",
+    "name": "Duc Thanh Wood Processing JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "GEE",
+    "name": "Gelex Electric Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "GEG",
+    "name": "Gia Lai Electricity JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "GEL",
+    "name": "GELEX Infrastructure Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "GEX",
+    "name": "Gelex Group Joint Stock Co",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "GGG",
+    "name": "Giaiphong Motor JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "GHC",
+    "name": "Gia Lai Hydropower Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "GIC",
+    "name": "VSC GREEN LOGISTICS JOINT STOCK COMPANY",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "GIL",
+    "name": "Binh Thanh Import-Export Production & Trade JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "GKM",
+    "name": "GKM Holdings JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "GLT",
+    "name": "Global Electrical Technology Corp.",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "GLW",
+    "name": "Gia Lai Water Supply Sewerage JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "GMC",
+    "name": "Garmex Saigon Corp.",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "GMD",
+    "name": "GEMADEPT Corp.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "GMH",
+    "name": "Minh Hung Quang Tri JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "GMX",
+    "name": "My Xuan Brick Tile Pottery and Construction JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "GND",
+    "name": "Dong Nai Brick And Tile Corporation",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "GPC",
+    "name": "Green Plus Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "GSM",
+    "name": "Huong Son Hydro Power Joint Stocks Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "GSP",
+    "name": "International Gas Product Shipping JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "GTA",
+    "name": "Thuan An Wood Proccesing Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "GTD",
+    "name": "Thuongdinh Footwear Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "GTS",
+    "name": "Saigon Traffic Construction Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "GVR",
+    "name": "Vietnam Rubber Group Limited",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "GVT",
+    "name": "Viettri Paper Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "H11",
+    "name": "HUD101 Construction Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "HAC",
+    "name": "Hai Phong Securities Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "HAD",
+    "name": "Ha Noi - Hai Duong Beer Joint Stock Company",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "HAF",
+    "name": "Hanoi Foodstuff Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "HAG",
+    "name": "Hoang Anh Gia Lai Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "HAH",
+    "name": "Hai An Transport & Stevedoring JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "HAM",
+    "name": "Hau Giang Materials Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "HAN",
+    "name": "Hanoi Construction Corporation JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "HAP",
+    "name": "HAPACO Group JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "HAR",
+    "name": "An Duong Thao Dien Real Estate Trading Investment JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "HAS",
+    "name": "HACISCO JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "HAT",
+    "name": "Hanoi Beer Trading JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "HAV",
+    "name": "Hapro Vodka Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "HAX",
+    "name": "Hang Xanh Motor Services JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "HBC",
+    "name": "Hoa Binh Construction & Real Estate Corp.",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "HBH",
+    "name": "Habeco - Hai Phong Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "HBS",
+    "name": "Hoa Binh Securities JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "HC3",
+    "name": "HaiPhong Construction Joint Stock Corporation No3",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "HCC",
+    "name": "Hoa Cam Concrete JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "HCD",
+    "name": "HCD Investment Producing and Trading JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "HCM",
+    "name": "Ho Chi Minh City Securities Corp.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "HD2",
+    "name": "Housing Development Investment Joint Stock Co HUD2",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "HD6",
+    "name": "Hanoi Housing Development and Investment Joint Stock Co No 6",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "HD8",
+    "name": "Housing and Urban Development Investment Joint Stock Co HUD8",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "HDA",
+    "name": "Dong A Paint JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "HDB",
+    "name": "Ho Chi Minh City Development Joint Stock Commercial Bank",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "HDC",
+    "name": "Ba Ria-Vung Tau House Development JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "HDG",
+    "name": "Ha Do Group Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "HDM",
+    "name": "Hue Textile Garment Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "HDP",
+    "name": "HaTinh Pharmaceutical Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "HDW",
+    "name": "Hai Duong Water Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "HEC",
+    "name": "Hydraulic Engineering Consultant Corporation II",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "HEJ",
+    "name": "Vietnam Hydraulic Engineering Consultants Corporation - JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "HEP",
+    "name": "Hue Urban Environment and Public Works Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "HEV",
+    "name": "Higher Educational & Vocational Book JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "HGM",
+    "name": "Ha Giang Mineral & Mechanics JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "HHC",
+    "name": "Haiha Confectionery JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "HHG",
+    "name": "Hoang Ha Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "HHP",
+    "name": "Hai Phong Hoang Ha Paper JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "HHS",
+    "name": "Hoang Huy Investment Services JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "HHV",
+    "name": "Deo Ca Traffic Infrastructure Investment JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "HID",
+    "name": "Halcom Vietnam JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "HII",
+    "name": "An Tien Industries Joint Stock Co",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "HIO",
+    "name": "Helio Energy Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "HJS",
+    "name": "Nam Mu Hydropower JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "HKB",
+    "name": "Ha Noi - Kinh Bac Agriculture and Food Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "HKT",
+    "name": "Ego Vietnam Investment JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "HLB",
+    "name": "Halong Beer And Beverage Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "HLC",
+    "name": "Vinacomin - HaLam Coal JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "HLD",
+    "name": "Hudland Real Estate Investment & Development JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "HMC",
+    "name": "VNsteel-Ho Chi Minh City Metal Corp.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "HMH",
+    "name": "Hai Minh Corporation",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "HMR",
+    "name": "Hoang Mai Stone Joint Stock Co",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "HMS",
+    "name": "HOCHIMINH Museum Construction Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "HNA",
+    "name": "Hua Na Hydropower Joint Stock Co",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "HND",
+    "name": "Hai Phong Thermal Power JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "HNF",
+    "name": "HuuNghi Food Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "HNG",
+    "name": "Hoang Anh Gia Lai Agriculture JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "HNM",
+    "name": "Hanoimilk JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "HNP",
+    "name": "Hanel Plastics Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "HOM",
+    "name": "VICEM Hoang Mai Cement JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "HOT",
+    "name": "Hoi An Tourist Service Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "HPA",
+    "name": "Hoa Phat Agriculture Development Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "HPB",
+    "name": "PP Pack Making JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "HPD",
+    "name": "Dak Doa Hydropower Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "HPG",
+    "name": "Hoa Phat Group JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "HPI",
+    "name": "Hiep Phuoc Industrial Park JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "HPO",
+    "name": "Hapulico Industry Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "HPP",
+    "name": "Haiphong Paint JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "HPT",
+    "name": "HPT Vietnam Corporation",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "HPW",
+    "name": "Hai Phong Waterway Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "HPX",
+    "name": "Hai Phat Investment JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "HQC",
+    "name": "Hoang Quan Corp",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "HRC",
+    "name": "Hoa Binh Rubber JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "HSG",
+    "name": "Hoa Sen Group",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "HSL",
+    "name": "Hong Ha Food Investment Development Joint Stock Co",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "HSM",
+    "name": "Hanoi Textile and Garment Joint Stock Corporation",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "HSP",
+    "name": "Hanoi Synthetic Paint Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "HSV",
+    "name": "HSV Viet Nam Group Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "HT1",
+    "name": "Vicem Ha Tien Cement JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "HTC",
+    "name": "Hocmon Trade Joint Stock Company",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "HTE",
+    "name": "Ho Chi Minh City Electric Power Trading Investment Corporation",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "HTG",
+    "name": "Hoa Tho Textile - Garment Joint Stock Corporation",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "HTI",
+    "name": "IDICO Infrastructure Development Investment Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "HTL",
+    "name": "Truong Long Engineering & Auto JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "HTM",
+    "name": "Hanoi Trade JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "HTN",
+    "name": "Hung Thinh Incons JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "HTP",
+    "name": "Hoaphat Textbook Printing JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "HTT",
+    "name": "Ha Tay Trading JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "HTV",
+    "name": "Logistics Vicem Joint Stock Co",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "HU3",
+    "name": "HUD3 Investment & Construction JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "HU4",
+    "name": "HUD4 Investment and Construction Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "HU6",
+    "name": "HUD6 City and Housing Development Investment Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "HUB",
+    "name": "Thua Thien Hue Construction Joint Stock Corp",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "HUG",
+    "name": "Hung Yen Garment Corp.",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "HUT",
+    "name": "Tasco Joint Stock Company",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "HVA",
+    "name": "HVA Investment JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "HVH",
+    "name": "HVC Investment & Technology JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "HVN",
+    "name": "Vietnam Airlines JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "HVT",
+    "name": "Viet Tri Chemical JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "HVX",
+    "name": "Vicem Hai Van Cement JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "HWS",
+    "name": "HUE WATER SUPPLY JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "ICF",
+    "name": "Investment Commerce Fisheries Corporation",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "ICG",
+    "name": "Song Hong Construction Joint Stock Company",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "ICN",
+    "name": "IDICO Investment Construction Oil and Natural Gas JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "ICT",
+    "name": "Joint Stock Co for Telecoms and informatics",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "IDC",
+    "name": "IDICO Corp. JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "IDI",
+    "name": "I.D.I International Development & Investment Corporation",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "IDJ",
+    "name": "IDJ Vietnam Investment Joint Stock Company",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "IDP",
+    "name": "LOF International Dairy Products Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "IDV",
+    "name": "Vinh Phuc Infrastructure Development JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "IFS",
+    "name": "Interfood Shareholding Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "IJC",
+    "name": "Becamex Infrastructure Development JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "ILA",
+    "name": "ILA JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "ILB",
+    "name": "ICD Tan Cang - Long Binh JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "ILC",
+    "name": "International Labour & Services JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "ILS",
+    "name": "International Investment Trade and Service JointStock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "IMP",
+    "name": "Imexpharm Corporation",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "INC",
+    "name": "IDICO Investment Consultancy JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "INN",
+    "name": "Agriculture Printing & Packaging JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "IPA",
+    "name": "IPA Investment Group Joint Stock Co",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "ISG",
+    "name": "International Shipping and Labour Cooperation J.S.C",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "ISH",
+    "name": "IDICO Srok Phu Mieng Hydropower Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "IST",
+    "name": "Tan Cang Song Than ICD Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "ITC",
+    "name": "Investment & Trading of Real Estate Joint Stock Co.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "ITD",
+    "name": "ITD Technology Corporation",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "ITQ",
+    "name": "Thien Quang Group JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "ITS",
+    "name": "Vinacomin - Investment. Trading and Service Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "IVS",
+    "name": "Guotai Junan Securities (Vietnam) Corp",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "JOS",
+    "name": "Minh Hai Export Frozen Seafood Processing Joint-Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "JVC",
+    "name": "Vietnam Medical and Pharmaceutical Investment Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "KBC",
+    "name": "Kinh Bac City Development Holding Corporation",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "KCB",
+    "name": "Cao Bang Mineral And Metallurgical Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "KDC",
+    "name": "KIDO Group Corporation",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "KDH",
+    "name": "Khang Dien House Trading & Investment JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "KDM",
+    "name": "GCL Group JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "KGM",
+    "name": "Kien Giang Import and Export JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "KHD",
+    "name": "Hai Duong Mineral Eineal Processing Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "KHG",
+    "name": "Khai Hoan Land Group Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "KHP",
+    "name": "Khanh Hoa Power JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "KHS",
+    "name": "Kien Hung JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "KHW",
+    "name": "Khanh Hoa Water Supply and Sewerage Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "KIP",
+    "name": "KIP Vietnam JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "KLB",
+    "name": "Kien Long Commercial Joint Stock Bank",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "KMR",
+    "name": "Mirae Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "KMT",
+    "name": "Central Vietnam Metal Corporation",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "KOS",
+    "name": "Kosy JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "KSB",
+    "name": "Binh Duong Mineral & Construction JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "KSD",
+    "name": "DNA Investment JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "KSF",
+    "name": "Sunshine Group Joint Stock Company",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "KSQ",
+    "name": "CNC Capital Viet Nam JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "KST",
+    "name": "Kasati JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "KSV",
+    "name": "Vinacomin - Minerals Holding Corporation",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "KTS",
+    "name": "Kon Tum Sugar JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "KVC",
+    "name": "Kim Vi Inox Import Export Production JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "L12",
+    "name": "Licogi 12 Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "L14",
+    "name": "Licogi 14 JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "L18",
+    "name": "Construction & Investment JSC No. 18",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "L35",
+    "name": "Lilama Erection Mechanical JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "L40",
+    "name": "40 Investment and Construction JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "L43",
+    "name": "Lilama 45.3 JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "L45",
+    "name": "Lilama 45.1 Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "L61",
+    "name": "Lilama 69-1 JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "L62",
+    "name": "Lilama 69-2 JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "L63",
+    "name": "Lilama 69-3 Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "LAF",
+    "name": "Long An Food Processing Export JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "LAI",
+    "name": "IDICO Long An Investment Construction JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "LAS",
+    "name": "Lam Thao Fertilizers & Chemicals JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "LAW",
+    "name": "Long An Water Supply Sewerage Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "LBE",
+    "name": "LVA Trading and Services JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "LBM",
+    "name": "Lamdong Minerals and Building Materials Join Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "LCG",
+    "name": "Lizen JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "LCM",
+    "name": "Lao Cai Mineral Exploitation & Processing JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "LDG",
+    "name": "LDG Investment Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "LDP",
+    "name": "Lamdong Pharmaceutical JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "LEC",
+    "name": "Central Power Real Estate JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "LG9",
+    "name": "Mechanized Construction and Installation Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "LGC",
+    "name": "CII Bridges and Roads Investment Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "LGL",
+    "name": "Long Giang Investment and Urban Development Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "LHC",
+    "name": "Lam Dong Investment Hydraulic Construction JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "LHG",
+    "name": "Long Hau Corp.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "LIC",
+    "name": "Licogi Corporation - JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "LIG",
+    "name": "Licogi 13 JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "LIX",
+    "name": "Lix Detergent JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "LKW",
+    "name": "Long Khanh Water Supply Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "LLM",
+    "name": "Vietnam Machinery Installation Corporation",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "LM3",
+    "name": "LILAMA 3 JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "LM7",
+    "name": "Lilama 7 JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "LMC",
+    "name": "Long Beach LMC Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "LMH",
+    "name": "Landmark Holding Join Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "LPB",
+    "name": "Fortune Vietnam Joint Stock Commercial Bank",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "LPT",
+    "name": "Lap Phuong Thanh Production & Trading JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "LSG",
+    "name": "Sai Gon Vina Land Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "LSS",
+    "name": "Lam Son Sugar JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "LTC",
+    "name": "LTC VIET NAM DEVELOPMENT INVESTMENT COMPANY LIMITED",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "LTG",
+    "name": "Loc Troi Group JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "LUT",
+    "name": "Luong Tai Investment Construction JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "M10",
+    "name": "Garment 10 Corp.-JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "MA1",
+    "name": "Machinery Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "MAC",
+    "name": "Marine Supply & Engineering Service JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "MAS",
+    "name": "Danang Airport Service JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "MBB",
+    "name": "Military Commercial Joint Stock Bank",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "MBG",
+    "name": "MBG Group JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "MBS",
+    "name": "MB Securities Joint Stock Company",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "MBT",
+    "name": "Minh Bao Tin Real Estate Services Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "MCF",
+    "name": "Mechanics Construction & Foodstuff JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "MCG",
+    "name": "MCG Energy and Real Estate Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "MCH",
+    "name": "Masan Consumer Corporation",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "MCM",
+    "name": "MocChau Dairy Cattle Breeding JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "MCO",
+    "name": "Vietnam BDC Construction and Investment Joint Stock Company",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "MCP",
+    "name": "My Chau Printing and Packaging Corporation",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "MDC",
+    "name": "Vinacomin - Mong Duong Coal Joint Stock Company",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "MDF",
+    "name": "MDF VRG Quang Tri Wood Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "MDG",
+    "name": "Mien Dong JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "MEC",
+    "name": "Song Da Mechanical Assembling JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "MED",
+    "name": "Mediplantex National Pharmaceutical JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "MEF",
+    "name": "Meinfa JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "MEL",
+    "name": "Me Lin Steel JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "MFS",
+    "name": "MobiFone Service JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "MGC",
+    "name": "Vinacomin - Mining Geology Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "MGG",
+    "name": "Duc Giang Corporation",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "MGR",
+    "name": "MGroup Group Corporation",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "MH3",
+    "name": "Binh Long Rubber Industrial Park Corporation",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "MHC",
+    "name": "MHC JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "MIC",
+    "name": "Quang Nam Mineral Industry Corp.",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "MIG",
+    "name": "Military Insurance Corporation",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "MKP",
+    "name": "Mekophar Chemical Pharmaceutical Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "MKV",
+    "name": "Cai Lay Veterinary Pharmaceutical JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "MLS",
+    "name": "Mitraco Livestock JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "MML",
+    "name": "Masan MeatLife JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "MPC",
+    "name": "Minh Phu Seafood Group Corp.",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "MPT",
+    "name": "MPT Group Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "MQN",
+    "name": "Quang Ngai Urban Environment Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "MRF",
+    "name": "Merufa JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "MSB",
+    "name": "Vietnam Maritime Commercial Joint Stock Bank",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "MSH",
+    "name": "Song Hong Garment JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "MSN",
+    "name": "Masan Group Corporation",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "MSR",
+    "name": "Masan High-Tech Materials Corp.",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "MST",
+    "name": "MST Investment JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "MTA",
+    "name": "Ha Tinh Minerals and Trading Joint Stock Corporation",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "MTG",
+    "name": "MT Gas JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "MTH",
+    "name": "Ha Dong Environment Public Service Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "MTL",
+    "name": "Tu Liem Urban Environment Service Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "MTP",
+    "name": "Medipharco Pharmaceutical Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "MTS",
+    "name": "Vinacomin - Materials Trading JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "MTV",
+    "name": "Vung Tau Environment Services and Urban Project Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "MVB",
+    "name": "Vinacomin - Viet bac Mining Industry Holding Corporation",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "MVC",
+    "name": "Binh Duong Building Materials & Construction Corporation",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "MVN",
+    "name": "Vietnam Maritime Corp",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "MWG",
+    "name": "Mobile World Investment Corp",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "MZG",
+    "name": "Miza Corporation",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "NAB",
+    "name": "Nam A Commercial Joint Stock Bank",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "NAF",
+    "name": "Nafoods Group JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "NAG",
+    "name": "Nagakawa Group Joint Stock Company",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "NAS",
+    "name": "Vietnam Airport Services Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "NAU",
+    "name": "Nghe An Urban Works & Environment Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "NAV",
+    "name": "Nam Viet JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "NAW",
+    "name": "Nghe An Water Supply Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "NBB",
+    "name": "577 Investment Corporation",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "NBC",
+    "name": "Vinacomin Nui Beo Coal JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "NBE",
+    "name": "North Book and Educational equipment Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "NBP",
+    "name": "Ninh Binh Thermal Power JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "NBT",
+    "name": "Ben Tre Water Supply and Sewerage Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "NBW",
+    "name": "Nha Be Water Supply JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "NCG",
+    "name": "Nova Consumer Group Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "NCS",
+    "name": "Noi Bai Catering Services JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "NCT",
+    "name": "Noi Bai Cargo Terminal Services JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "ND2",
+    "name": "Northern Electricity Development and Investment Joint Stock Co No. 2",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "NDC",
+    "name": "Nam Duoc JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "NDN",
+    "name": "Da Nang Housing Investment Development JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "NDT",
+    "name": "Nam Dinh Textile Garment Joint Stock Corporation",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "NDX",
+    "name": "Da Nang Housing Development JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "NED",
+    "name": "North - West Electric Investment and DevelopmentJoint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "NET",
+    "name": "Net Detergent JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "NFC",
+    "name": "Ninh Binh Phosphate Fertilizer JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "NHA",
+    "name": "Ha Noi South Housing & Urban Development Corp.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "NHC",
+    "name": "Nhi Hiep Brick-Tile Co-Operation",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "NHH",
+    "name": "Hanoi Plastics Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "NHT",
+    "name": "Nam Hoa Trading & Production Corp.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "NJC",
+    "name": "Nam Dinh Garment Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "NKG",
+    "name": "Nam Kim Steel Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "NLG",
+    "name": "Nam Long Investment Corp.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "NNC",
+    "name": "Nui Nho Stone JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "NNT",
+    "name": "Ninh Thuan Water Supply Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "NO1",
+    "name": "911 Group JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "NOS",
+    "name": "Oriental Shipping and Trading Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "NQN",
+    "name": "Quang Ninh Clean Water Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "NRC",
+    "name": "Danh Khoi Group JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "NSC",
+    "name": "VietNam National Seed Group Joint Stock Co",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "NSH",
+    "name": "Song Hong Aluminum Shalumi Group Joint Stock Company",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "NST",
+    "name": "Ngan Son JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "NT2",
+    "name": "PetroVietnam Power Nhon Trach 2 JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "NTC",
+    "name": "Nam Tan Uyen Joint Stock Corporation",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "NTF",
+    "name": "Nghe An Pharmaceutical Medical Material and Equipment Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "NTH",
+    "name": "Nuoc Trong Hydro - Power Joint Stock Co",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "NTL",
+    "name": "Tu Liem Urban Development JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "NTP",
+    "name": "Tien Phong Plastics JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "NTW",
+    "name": "Nhon Trach Water Supply Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "NUE",
+    "name": "Nha Trang Urban Environmental Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "NVB",
+    "name": "National Citizen Commercial Joint Stock Bank",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "NVL",
+    "name": "No Va Land Investment Group Corp.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "NVP",
+    "name": "Vinh Phuc Water Supply Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "NVT",
+    "name": "Ninh Van Bay Real Estate JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "NXT",
+    "name": "KonTum Construction Materials Supply and Production JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "OCB",
+    "name": "Orient Commercial Joint Stock Bank",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "OCH",
+    "name": "One Capital Hospitality Joint Stock Company",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "ODE",
+    "name": "ODE Media and Entertainment Group Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "OGC",
+    "name": "Ocean Group JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "OIL",
+    "name": "PetroVietnam Oil Corp.",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "ONE",
+    "name": "One Communication Technology Corp.",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "OPC",
+    "name": "OPC Pharmaceutical Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "ORS",
+    "name": "Orient Securities Corp.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "PAC",
+    "name": "Dry Cell & Storage Battery JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "PAN",
+    "name": "PAN Group Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "PAP",
+    "name": "Petro Vietnam Phuoc An Port Investment & Operation Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "PAS",
+    "name": "Phuong Anh International JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "PAT",
+    "name": "Vietnam Apatite - Phosphorus Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "PBC",
+    "name": "Pharbaco Central Pharmaceutical Joint Stock Co No.1",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "PBP",
+    "name": "PetroVietnam Packaging Joint Stock Company",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "PBT",
+    "name": "Binh Son Petroleum Packaging and Trading JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "PC1",
+    "name": "PC1 Group JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "PCE",
+    "name": "Central PetroVietnam Fertilizer & Chemicals JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "PCF",
+    "name": "Petec Coffee Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "PCH",
+    "name": "Picomat Holding Joint Stock Company",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "PCM",
+    "name": "Post and Telecommunication Construction MaterialJoint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "PCT",
+    "name": "Global Pacific Shipping JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "PDB",
+    "name": "Din Capital Investment Group JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "PDC",
+    "name": "Phuong Dong Petroleum Tourism JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "PDN",
+    "name": "Dong Nai Port JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "PDR",
+    "name": "Phat Dat Real Estate Development Corp.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "PDV",
+    "name": "Phuong Dong Viet Shipping and Logistics Corporation",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "PEG",
+    "name": "Petec Trading and Investment Corporation",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "PEN",
+    "name": "Petrolimex Installation No.III Joint Stock Company",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "PEQ",
+    "name": "Petrolimex Equipment JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "PET",
+    "name": "Petrovietnam General Services JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "PFL",
+    "name": "Petroleum Dong Do JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "PGB",
+    "name": "Prosperity and Growth Commercial Joint Stock Bank",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "PGC",
+    "name": "Petrolimex Gas JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "PGD",
+    "name": "PetroVietnam Low Pressure Gas Distribution JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "PGI",
+    "name": "PJICO Insurance Corp.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "PGN",
+    "name": "Plastic Additives JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "PGS",
+    "name": "Southern Gas Trading JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "PGT",
+    "name": "PGT Holdings Joint Stock Company",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "PGV",
+    "name": "Power Generation Corp. 3",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "PHC",
+    "name": "Phuc Hung Holdings Construction JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "PHN",
+    "name": "Hanoi Battery JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "PHP",
+    "name": "Port of Hai Phong JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "PHR",
+    "name": "Phuoc Hoa Rubber JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "PHS",
+    "name": "Phu Hung Securities Corp.",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "PIC",
+    "name": "PC3 - Investment Joint Stock Company",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "PIT",
+    "name": "Petrolimex International Trading JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "PIV",
+    "name": "PIV JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "PJC",
+    "name": "Petrolimex Hanoi Transportation & Trading JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "PJS",
+    "name": "Phu Hoa Tan Water Supply Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "PJT",
+    "name": "Petrolimex Joint Stock Tanker Co.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "PLA",
+    "name": "Petroleum Logistic Service & Investment JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "PLC",
+    "name": "Petrolimex Petrochemical JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "PLO",
+    "name": "Petec Logistics Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "PLP",
+    "name": "PHALE PLASTICS JOINT STOCK COMPANY",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "PLX",
+    "name": "Vietnam National Petroleum Group",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "PMB",
+    "name": "North Petro Vietnam Fertilizer & Chemicals JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "PMC",
+    "name": "Pharmedic Pharmaceutical Medicinal JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "PMG",
+    "name": "Petro Center Corp.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "PMJ",
+    "name": "P&T Material Supply Joint-Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "PMP",
+    "name": "Dam Phu My Packaging JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "PMS",
+    "name": "Petroleum Mechanical JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "PMT",
+    "name": "Telvina VietNam Communication Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "PMW",
+    "name": "Phu My Water Supply Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "PNC",
+    "name": "Phuong Nam Cultural JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "PND",
+    "name": "Petrovietnam Oil Nam Dinh Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "PNJ",
+    "name": "Phu Nhuan Jewelry JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "PNP",
+    "name": "Phu Huu - Newport Corporation",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "PNT",
+    "name": "Phu Nhuan Technical Construction Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "POM",
+    "name": "Pomina Steel Corp.",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "POS",
+    "name": "PTSC Offshore Services Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "POT",
+    "name": "Post & Telecommunications Equipment JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "POV",
+    "name": "Vung Ang Petroleum Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "POW",
+    "name": "PetroVietnam Power Corporation",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "PPC",
+    "name": "Pha Lai Thermal Power Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "PPE",
+    "name": "PetroVietnam Power Engineering Consulting Joint Stock Company",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "PPH",
+    "name": "Phong Phu Corporation",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "PPP",
+    "name": "Phong Phu Pharmaceutical JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "PPS",
+    "name": "Petrovietnam Power Services JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "PPT",
+    "name": "Petro Times JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "PPY",
+    "name": "Phu Yen Petrovietnam Oil JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "PRC",
+    "name": "PORTSERCO LOGISTICS JOINT STOCK COMPANY",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "PRE",
+    "name": "Hanoi Reinsurance JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "PRO",
+    "name": "Procimex Vietnam JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "PRT",
+    "name": "Binh Duong Producing & Trading Goods Corp.",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "PSB",
+    "name": "Sao Mai - Ben Dinh Petroleum Investment Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "PSC",
+    "name": "Petrolimex Saigon Transportation and Service Joint Stock Company",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "PSD",
+    "name": "Petroleum General Distribution Services JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "PSE",
+    "name": "South-East PetroVietnam Fertilizer and Chemical Joint Stock Company",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "PSI",
+    "name": "Petrovietnam Securities, Inc.",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "PSL",
+    "name": "Phu Son Livestock Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "PSN",
+    "name": "PTSC Thanh Hoa Technical Services Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "PSP",
+    "name": "Dinh Vu Petroleum Services Port Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "PSW",
+    "name": "South - West Petro Vietnam Fertilizer and Chemicals Joint Stock",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "PTB",
+    "name": "Phu Tai JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "PTC",
+    "name": "iCapital Investment JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "PTI",
+    "name": "Post Telecommunication Insurance JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "PTL",
+    "name": "Victory Capital JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "PTM",
+    "name": "PTM Automobile Service Trading & Manufacturing JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "PTP",
+    "name": "PTP JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "PTS",
+    "name": "Hai Phong Petrolimex Transportation & Services JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "PTT",
+    "name": "Indochina Petroleum Transportation Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "PTV",
+    "name": "Petroleum Trading Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "PTX",
+    "name": "Petrolimex Nghe Tinh Transportation and Service Joint Stock Co",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "PV2",
+    "name": "PV2 Investment JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "PVB",
+    "name": "Petrovietnam Coating JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "PVC",
+    "name": "PetroVietnam Chemical and Services Corporation",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "PVD",
+    "name": "PetroVietnam Drilling & Well Services JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "PVE",
+    "name": "Petrovietnam Engineering Consultancy Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "PVG",
+    "name": "PetroVietnam LPG JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "PVI",
+    "name": "PVI Holdings",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "PVL",
+    "name": "Petroleum Real Estate Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "PVM",
+    "name": "Petrovietnam Machinery - Technology JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "PVO",
+    "name": "PV OIL LUBE Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "PVP",
+    "name": "Pacific Petroleum Transportation JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "PVR",
+    "name": "PetroVietnam Premier Recreation JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "PVS",
+    "name": "PetroVietnam Technical Services Corporation",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "PVT",
+    "name": "PetroVietnam Transportation Corp.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "PVV",
+    "name": "Vinaconex PVC Construction Investment JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "PVX",
+    "name": "PetroVietnam Construction JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "PVY",
+    "name": "Petrovietnam Marine Shipyard Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "PWA",
+    "name": "Petrowaco Property JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "PWS",
+    "name": "Phu Yen Water Supply and Sewerage Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "PXA",
+    "name": "PetroVietnam-Nghe An Investment & Trading JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "PXI",
+    "name": "Petroleum Industrial & Civil Construction JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "PXL",
+    "name": "Idico-Petroleum Trading Construction Investment JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "PXM",
+    "name": "Mien Trung Petroleum Construction JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "PXS",
+    "name": "Petroleum Equipment Assembly & Metal Structure JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "PXT",
+    "name": "Petroleum Pipeline & Tank Construction JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "QBS",
+    "name": "Quang Binh Import And Export Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "QCC",
+    "name": "Construction Investment and Telecommunications Infrastructure Development Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "QCG",
+    "name": "Quoc Cuong Gia Lai JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "QHD",
+    "name": "Viet Duc Welding Electrode JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "QHW",
+    "name": "Quang Ninh Mineral Water Corporation",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "QNC",
+    "name": "Quang Ninh Construction & Cement JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "QNP",
+    "name": "Quy Nhon Port Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "QNS",
+    "name": "Quang Ngai Sugar JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "QNT",
+    "name": "Quang Nam Consulting & Investment Development JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "QNW",
+    "name": "Quang Ngai Water Supply Sewerage and Construction Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "QPH",
+    "name": "Que Phong Hydro power Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "QSP",
+    "name": "Quy Nhon New Port Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "QTC",
+    "name": "Quang Nam Transportation Construction JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "QTP",
+    "name": "Quang Ninh Thermal power joint stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "RAL",
+    "name": "Rangdong Light Source & Vacuum Flask JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "RCC",
+    "name": "Vietnam Railway Construction Corporation Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "RCD",
+    "name": "Rubber Real Estate Construction Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "RCL",
+    "name": "Cho Lon Real Estate JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "REE",
+    "name": "Refrigeration Electrical Engineering Corp.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "RGG",
+    "name": "Regal Group JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "RIC",
+    "name": "Royal International Corp.",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "RTB",
+    "name": "Tanbien Rubber Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "RYG",
+    "name": "Royal Manufacture and Investment Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "S4A",
+    "name": "Sesan 4A HydroElectric JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "S55",
+    "name": "Song Da 505 JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "S99",
+    "name": "SCI JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "SAB",
+    "name": "Saigon Beer Alcohol Beverage Corp.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "SAC",
+    "name": "Sai Gon Port Stevedoring and Service Joint StockCo",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SAF",
+    "name": "Safoco Foodstuff JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "SAM",
+    "name": "SAM HOLDINGS Corporation",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "SAS",
+    "name": "Southern Airports Services JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SAV",
+    "name": "Savimex Corp.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "SB1",
+    "name": "SaiGon - NgheTinh beer Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SBA",
+    "name": "Song Ba JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "SBB",
+    "name": "Saigon Binh Tay Beer Group Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SBD",
+    "name": "Sao Bac Dau Technologies Corporation",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SBG",
+    "name": "Siba High-Tech Mechanical Group Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "SBH",
+    "name": "Song Ba Ha Hydro Power Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SBL",
+    "name": "Saigon Baclieu Beer Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SBM",
+    "name": "Bac Minh Development Investment Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SBR",
+    "name": "Song Be Rubber Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SBS",
+    "name": "SBS Securities Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SBT",
+    "name": "Thanh Thanh Cong - Bien Hoa JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "SBV",
+    "name": "Siam Brothers Vietnam JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "SC5",
+    "name": "Construction JSC No. 5",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "SCC",
+    "name": "SHB Trading Investment Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SCG",
+    "name": "SCG Construction Group Joint Stock Company",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "SCI",
+    "name": "SCI E&C Joint Stock Company",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "SCJ",
+    "name": "Sai Son Cement JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SCL",
+    "name": "Song Da Cao Cuong JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SCO",
+    "name": "Seaproducts Mechanical Shareholding Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SCR",
+    "name": "Sai Gon Thuong Tin Real Estate Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "SCS",
+    "name": "Saigon Cargo Service Corp.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "SD2",
+    "name": "Song Da 2 JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SD3",
+    "name": "Song Da 3 JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SD5",
+    "name": "Song Da 5 Joint stock company",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "SD6",
+    "name": "Song Da Corporation 6",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SD7",
+    "name": "Song Da 7 JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SD9",
+    "name": "Song Da No 9 JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "SDA",
+    "name": "SIMCO Song Da JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "SDC",
+    "name": "Song Da Consulting JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "SDD",
+    "name": "Song Da Investment & Construction JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SDG",
+    "name": "Can Tho Sadico JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "SDK",
+    "name": "Mechanical Engineering & Metallurgy Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SDN",
+    "name": "Dong Nai Paint Corp.",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "SDP",
+    "name": "SDP JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SDT",
+    "name": "Song Da No. 10 JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SDU",
+    "name": "Song Da Urban Investment Construction & Development JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "SDV",
+    "name": "Sonadezi Services Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SDY",
+    "name": "Song Da Yaly Cement JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SEA",
+    "name": "Viet Nam Seaproducts Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SEB",
+    "name": "Mien Trung Power Investment & Development JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "SED",
+    "name": "Phuong Nam Education Investment & Development JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "SFG",
+    "name": "Southern Fertilizer Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "SFI",
+    "name": "Sea & Air Freight International",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "SFN",
+    "name": "SaiGon Fishing Net JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "SGB",
+    "name": "Saigon Bank for Industry and Trade",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SGC",
+    "name": "Sa Giang Import Export Corp.",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "SGH",
+    "name": "Saigon Hotel Corp.",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "SGI",
+    "name": "SGI HOLDINGS INVESTMENT JSC (SGI HOLDINGS)",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SGN",
+    "name": "Sai Gon Ground Services JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "SGP",
+    "name": "Saigon Port Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SGR",
+    "name": "Saigon Real Estate JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "SGS",
+    "name": "Saigon Shipping Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SGT",
+    "name": "Saigon Telecommunication & Technologies Corp.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "SHA",
+    "name": "Sonha Saigon JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "SHB",
+    "name": "Sai Gon - Hanoi Commercial Joint Stock Bank",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "SHC",
+    "name": "Sai Gon Maritime Joint Stock Co. Ltd",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SHE",
+    "name": "Son Ha Development of Renewable Energy JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "SHG",
+    "name": "SongHong Corporation",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SHI",
+    "name": "Son Ha International Corp.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "SHN",
+    "name": "Hanoi Investment General Corp.",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "SHP",
+    "name": "Southern Hydropower Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "SHS",
+    "name": "Saigon - Hanoi Securities JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "SID",
+    "name": "Saigon Coop Investment Development JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SIG",
+    "name": "SongDa Investment & Trading JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SIP",
+    "name": "Saigon VRG Investment Corp.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "SIV",
+    "name": "SIVICO JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SJ1",
+    "name": "Hung Hau Agricultural Corp.",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "SJD",
+    "name": "Can Don Hydro Power JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "SJE",
+    "name": "Song Da No 11 JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "SJG",
+    "name": "Song Da Corp JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SJM",
+    "name": "Song Da No. 19 JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SJS",
+    "name": "SJ Group Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "SKG",
+    "name": "Superdong Fast Ferry Kien Giang Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "SKH",
+    "name": "Khanh Hoa Sanest Soft Drink Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SKN",
+    "name": "Sanna Khanh Hoa Beverage Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SKV",
+    "name": "Khanh Hoa Salanganes Nest Soft Drink JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SLD",
+    "name": "Sacom Land Corporation",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SLS",
+    "name": "Son La Sugar JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "SMB",
+    "name": "Sai Gon Mien Trung Beer JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "SMC",
+    "name": "SMC Investment Trading JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "SMN",
+    "name": "South Books & Education Equipment Joint Stock Company",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "SMT",
+    "name": "Sametel Corp.",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "SNZ",
+    "name": "Sonadezi Corporation",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SP2",
+    "name": "Su Pan 2 Hydropower Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SPM",
+    "name": "SPM Corp. (Vietnam)",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "SPV",
+    "name": "Special Aquatic Products Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SRA",
+    "name": "Sara Vietnam JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "SRB",
+    "name": "SARA JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SRC",
+    "name": "Saovang Rubber JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "SRF",
+    "name": "Seaprodex Refrigeration Industry Corp.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "SSB",
+    "name": "Southeast Asia Commercial Joint Stock Bank",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "SSC",
+    "name": "Southern Seed Corporation",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "SSG",
+    "name": "Seagull Shipping Co.",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SSH",
+    "name": "Sunshine Homes Development Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SSI",
+    "name": "SSI Securities Corp.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "SSM",
+    "name": "Structure Steel Manufacture JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "ST8",
+    "name": "ST8 Investment Development Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "STB",
+    "name": "Saigon Thuong Tin Commercial Joint Stock Bank",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "STC",
+    "name": "Book & Educational Equipment JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "STD",
+    "name": "Sai Gon-Tay Do Beer-Beverage JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "STG",
+    "name": "South Logistics JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "STH",
+    "name": "Thai Nguyen Book Publishing Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "STK",
+    "name": "Century Synthetic Fiber Corp.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "STP",
+    "name": "Song Da Industry Trade JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "STW",
+    "name": "SocTrang Water Supply Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SVC",
+    "name": "Saigon General Service Corp.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "SVD",
+    "name": "Vu Dang Investment & Trading Joint Stock Co",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "SVG",
+    "name": "Industrial Gas and Welding Electrode JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SVN",
+    "name": "Vexilla Viet Nam Group JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "SVT",
+    "name": "Sai Gon Vien Dong Technology JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "SWC",
+    "name": "Southern Waterborne Transport Corporation",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SZB",
+    "name": "Sonadezi Long Binh Shareholding Co.",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "SZC",
+    "name": "Sonadezi Chau Duc Shareholding Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "SZE",
+    "name": "Sonadezi Environment Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SZG",
+    "name": "Sonadezi Giang Dien Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "SZL",
+    "name": "Sonadezi Long Thanh",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "TA6",
+    "name": "Thanh An 665 Construction Installation and Investment JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "TA9",
+    "name": "Thanh An 96 Installation and Construction JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "TAB",
+    "name": "Freco Viet Nam Corporation",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "TAL",
+    "name": "Taseco Land Investment JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "TAN",
+    "name": "Thuan An Coffee Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "TAR",
+    "name": "Trung An Hi-Tech Farming JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "TBC",
+    "name": "Thac Ba Hydropower JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "TBD",
+    "name": "Dong Anh Electrical Equipment Corporation - Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "TBR",
+    "name": "Tan Binh Real Estate JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "TCB",
+    "name": "Vietnam Technological & Commercial Joint Stock Bank",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "TCH",
+    "name": "Hoang Huy Investment Financial Services JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "TCI",
+    "name": "Thanh Cong Securities Co",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "TCL",
+    "name": "Tan Cang Logistics and Stevedoring Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "TCM",
+    "name": "Thanh Cong Textile Garment Investment Trading JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "TCO",
+    "name": "Janus Group JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "TCR",
+    "name": "Taicera Enterprise Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "TCT",
+    "name": "Tay Ninh Cable Car Tour Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "TCW",
+    "name": "Tan Cang Warehousing Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "TCX",
+    "name": "Techcom Securities Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "TD6",
+    "name": "Deo Nai Coc Sau TKV Coal Joint Stock Company",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "TDB",
+    "name": "Dinh Binh Hydro Power Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "TDC",
+    "name": "Binh Duong Trade & Development JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "TDF",
+    "name": "Trung Do JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "TDG",
+    "name": "TDG GLOBAL Investment Joint Stock Co",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "TDH",
+    "name": "Thuduc Housing Development Corporation",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "TDM",
+    "name": "Thu Dau Mot Water JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "TDP",
+    "name": "Thuan Duc Joint Stock Co",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "TDS",
+    "name": "Thu Duc Steel JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "TDT",
+    "name": "TDT Investment & Development JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "TDW",
+    "name": "Thu Duc Water Supply JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "TED",
+    "name": "Transport Engineering Design Incorporated",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "TEG",
+    "name": "Truong Thanh Energy & Real Estate Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "TET",
+    "name": "Northern Textiles & Garment JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "TFC",
+    "name": "Trang Corporation Joint Stock Company",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "TGP",
+    "name": "Truong Phu JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "TH1",
+    "name": "Vietnam National General Export Import JSC No. 1",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "THB",
+    "name": "Hanoi Thanh Hoa Beer Joint Stock Company",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "THD",
+    "name": "Thaiholdings JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "THG",
+    "name": "Tien Giang Investment & Construction JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "THM",
+    "name": "Tu Hai Ha Nam Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "THP",
+    "name": "Thuan Phuoc Seafoods and Trading Corporation",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "THS",
+    "name": "Thanh Hoa Song Da JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "THT",
+    "name": "Vinacomin - Ha Tu Coal JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "THW",
+    "name": "Tan Hoa Water Supply JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "TID",
+    "name": "Tin Nghia Corporation",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "TIG",
+    "name": "Thang Long Investment Group",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "TIN",
+    "name": "VietCredit Finance Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "TIP",
+    "name": "Tin Nghia Industrial Park Development JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "TIS",
+    "name": "Thai Nguyen Iron and Steel Joint Stock Corporation",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "TIX",
+    "name": "Tan Binh Import Export JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "TJC",
+    "name": "Transportation and Trading Services Joint Stock Company",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "TKU",
+    "name": "Tung Kuang Industrial JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "TLD",
+    "name": "Thang Long Urban Development & Construction Investment JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "TLG",
+    "name": "Thien Long Group Corp.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "TLH",
+    "name": "Tien Len Steel Corporation Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "TLP",
+    "name": "Thanh Le General Import-Export Trading Corp.",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "TMB",
+    "name": "Vinacomin-Northern Coal Trading JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "TMC",
+    "name": "Thu Duc Trading & Import-Export JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "TMG",
+    "name": "Thai Nguyen Non Ferous Metals Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "TMP",
+    "name": "Thac Mo Hydro Power JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "TMS",
+    "name": "Transimex Corporation",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "TMT",
+    "name": "TMT Motors Corporation",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "TMW",
+    "name": "Tan Mai General Wood JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "TMX",
+    "name": "VICEM Cement Trading JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "TN1",
+    "name": "Rox Key Holdings Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "TNB",
+    "name": "Nha Be Steel JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "TNC",
+    "name": "Thong Nhat Rubber Co.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "TNG",
+    "name": "TNG Investment and Trading JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "TNH",
+    "name": "TNH Hospital Group Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "TNI",
+    "name": "Thanh Nam Group JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "TNS",
+    "name": "Thong Nhat Flat steel Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "TNT",
+    "name": "Tai Nguyen Corp.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "TNV",
+    "name": "Thong Nhat Ha Noi Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "TNW",
+    "name": "Thai Nguyen Water Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "TOS",
+    "name": "Tan Cang Offshore Services Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "TOT",
+    "name": "Transimex Logistics Joint Stock Co",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "TOW",
+    "name": "Tra Noc - O Mon Water Supply JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "TPB",
+    "name": "Tien Phong Commercial Joint Stock Bank",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "TPP",
+    "name": "Tan Phu Plastic JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "TRA",
+    "name": "Traphaco Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "TRC",
+    "name": "Tay Ninh Rubber JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "TRS",
+    "name": "Tracimexco - Supply Chains and Agency Services JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "TRV",
+    "name": "Railway Transport Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "TS3",
+    "name": "One Member Limited Liability Co No 532",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "TSA",
+    "name": "TRUONG SON INVESTMENT AND CONSTRUCTION SERVICES JOINT STOCK COMPANY",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "TSB",
+    "name": "Tiasang Battery JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "TSC",
+    "name": "Techno-Agricultural Supplying JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "TSD",
+    "name": "Truongson Tourism JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "TSJ",
+    "name": "Ha Noi Tourist Service Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "TT6",
+    "name": "Tien Thinh Group Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "TTA",
+    "name": "Truong Thanh Development and Construction Investment JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "TTC",
+    "name": "Thanh Thanh JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "TTD",
+    "name": "Tam Duc Cardiology hospital Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "TTF",
+    "name": "Truong Thanh Furniture Corp.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "TTG",
+    "name": "Thanh Tri Garment Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "TTH",
+    "name": "Tien Thanh Service & Trading JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "TTL",
+    "name": "Thang Long JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "TTN",
+    "name": "Viet Nam Technology & Telecommunication Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "TTS",
+    "name": "Thai Trung Steel Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "TTT",
+    "name": "Tay Ninh Tourist Trading JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "TUG",
+    "name": "Haiphong Port Tugboat and Transport Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "TV1",
+    "name": "Power Engineering Consulting Joint Stock Company 1",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "TV2",
+    "name": "Power Engineering Consulting 2 JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "TV3",
+    "name": "Power Engineering Consulting 3 JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "TV4",
+    "name": "Power Engineering Consulting 4 JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "TVB",
+    "name": "Tri Viet Securities JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "TVC",
+    "name": "Tri Viet Investment Management Corp.",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "TVD",
+    "name": "Vinacomin-Vang Danh Coal JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "TVH",
+    "name": "Construction consultation Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "TVM",
+    "name": "Vinacomin Industry Investment Consulting Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "TVN",
+    "name": "Vinausteel Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "TVS",
+    "name": "Thien Viet Securities JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "TVT",
+    "name": "Viet Thang Corp.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "TXM",
+    "name": "Vicem Gypsum & Cement JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "TYA",
+    "name": "Taya (Viet Nam) Electric Wire and Cable Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "UDC",
+    "name": "Urban Development & Construction Corp.",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "UDJ",
+    "name": "Becamex Urban Development JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "UDL",
+    "name": "DakLak Urban and Enviroment Ltd Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "UIC",
+    "name": "IDICO Urban & House Development JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "UNI",
+    "name": "Sao Mai Viet Investment and Development JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "UPC",
+    "name": "Vung Tau Urban and Parks Development JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "UPH",
+    "name": "No.25 Central Pharmaceutical Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "UPS",
+    "name": "UP Securities Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "USC",
+    "name": "Union of Survey & Construction JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "USD",
+    "name": "Soc Trang Public Works Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "UXC",
+    "name": "UTXI Aquatic Products Processing Corporation",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "V12",
+    "name": "Construction JSC No. 12",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "V21",
+    "name": "Vinaconex 21 JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "VAB",
+    "name": "VietNam- Asia Commercial Joint Stock Bank",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "VAV",
+    "name": "VIWACO JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VBB",
+    "name": "Vietnam Thuong Tin Commercial Joint Stock Bank",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VBC",
+    "name": "Vinh Plastic & Bags JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "VBT",
+    "name": "Bao Thang Transport Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VC1",
+    "name": "Construction JSC No. 1",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "VC2",
+    "name": "Vina2 Invest & Construction Joint Stock Company",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "VC3",
+    "name": "Nam Mekong Group Joint Stock Company",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "VC6",
+    "name": "Visicons Construction And Investment Joint Stock Company",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "VC7",
+    "name": "BGI Group JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "VC9",
+    "name": "VC9 - No 9 Construction Join Stock Company",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "VCA",
+    "name": "VICASA Steel JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "VCB",
+    "name": "Joint Stock Commercial Bank for Foreign Trade of Vietnam",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "VCC",
+    "name": "Vinaconex 25 JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "VCF",
+    "name": "Vinacafe Bien Hoa JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "VCG",
+    "name": "Vietnam Construction & Import-Export Joint Stock Corporation",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "VCI",
+    "name": "Vietcap Securities Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "VCK",
+    "name": "VPS Securities JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "VCP",
+    "name": "VCP Power & Construction Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VCS",
+    "name": "Vicostone Joint Stock Company",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "VCX",
+    "name": "Yen Binh Cement Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VDL",
+    "name": "Lamdong Foodstuffs JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "VDP",
+    "name": "Vidipha Central Pharmaceutical JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "VDS",
+    "name": "Viet Dragon Securities Corp.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "VDT",
+    "name": "Binh Tay Steel Wire Netting JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VE1",
+    "name": "VNECO1 Electricity Construction JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "VE3",
+    "name": "VNECO 3 Electricity Construction JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "VE8",
+    "name": "VNECO 8 Electricity Construction JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VE9",
+    "name": "VNECO 9 Investment & Construction JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VEA",
+    "name": "Vietnam Engine & Agricultural Machinery Corp.",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VEC",
+    "name": "Vietnam Electronics And Informatics Joint-Stock Corporation",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VEF",
+    "name": "Vietnam Exhibition Fair Center Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VES",
+    "name": "Meca Vneco Investment and Electricity Construction Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VET",
+    "name": "Navetco National Veterinary Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VFC",
+    "name": "Vinafco JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VFG",
+    "name": "Vietnam Fumigation JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "VFR",
+    "name": "Transport & Chartering Corp.",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VFS",
+    "name": "Viet First Securities Corporation",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "VGC",
+    "name": "Viglacera Corp.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "VGG",
+    "name": "Viet Tien Garment Corp.",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VGI",
+    "name": "Viettel Global Investment JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VGP",
+    "name": "Vegetexco Port JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "VGR",
+    "name": "Vip GreenPort Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VGS",
+    "name": "Vietnam Germany Steel Pipe Joint Stock Company",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "VGT",
+    "name": "Vietnam National Textile & Garment Group",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VGV",
+    "name": "Viet Nam National Construction Consultants Corporation - JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VHC",
+    "name": "Vinh Hoan Corp",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "VHD",
+    "name": "Vinahud Urban and Housing Development Investment JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VHE",
+    "name": "Viet Nam Herbs & Foods JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "VHG",
+    "name": "Quang Nam Rubber Investment Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VHH",
+    "name": "Thanh Dat Investment House Trading JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VHL",
+    "name": "Viglacera Ha Long JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "VHM",
+    "name": "Vinhomes Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "VIB",
+    "name": "Viet Nam International Commercial Joint Stock Bank",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "VIC",
+    "name": "Vingroup Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "VID",
+    "name": "Vien Dong Investment Development Trading Corp.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "VIE",
+    "name": "VITECO Vietnam Telecommunications Technology JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VIF",
+    "name": "Vietnam Forestry Corporation Joint Stock Co",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "VIG",
+    "name": "Viet Nam Financial Investment Securities Corporation",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "VIM",
+    "name": "Viglacera Mineral JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VIN",
+    "name": "Vinatrans International Freight Forwarders",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VIP",
+    "name": "Vietnam Petroleum Transport JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "VIT",
+    "name": "Viglacera Tien Son JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "VIW",
+    "name": "Vietnam Water and Environment Investment Corporation",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VIX",
+    "name": "VIX Securities Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "VJC",
+    "name": "VietJet Aviation Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "VKC",
+    "name": "VKC Holdings Join Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VLA",
+    "name": "Van Lang Technology Development and Investment JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "VLB",
+    "name": "Bien Hoa Building Materials Production and Construction Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VLC",
+    "name": "Vietnam Livestock Corporation JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VLG",
+    "name": "VIMC Logistics JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VLS",
+    "name": "Viet Long Steel Production Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VMC",
+    "name": "Vimeco JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "VMD",
+    "name": "Vimedimex Medi-Pharma JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "VMG",
+    "name": "Vung Tau Petroleum Trading & Service JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VMS",
+    "name": "Vietnam Maritime Development JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "VNA",
+    "name": "Vinaship Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VNB",
+    "name": "Viet Nam Books Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VNC",
+    "name": "Vinacontrol Group Corp.",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "VND",
+    "name": "VNDirect Securities Corp.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "VNE",
+    "name": "Vietnam Electricity Construction JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "VNF",
+    "name": "Vinafreight International Freight Forwarders Joint Stock Company",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "VNG",
+    "name": "Thanh Thanh Cong Tourist JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "VNH",
+    "name": "Viet Nhat Seafood Corp.",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VNI",
+    "name": "Vietnam Land Investment Corp.",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VNL",
+    "name": "Vinalink Logistics Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "VNM",
+    "name": "Vietnam Dairy Products Corp.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "VNP",
+    "name": "Vietnam Plastic Corporation",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VNR",
+    "name": "Vietnam National Reinsurance Corp.",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "VNS",
+    "name": "Vietnam Sun Corp.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "VNZ",
+    "name": "VNG Corporation",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VOS",
+    "name": "Viet Nam Ocean Shipping JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "VPA",
+    "name": "VP Petrochemical Transport JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VPB",
+    "name": "Vietnam Prosperity Joint-Stock Commercial Bank",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "VPC",
+    "name": "Viet Nam Power Investment & Development JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VPD",
+    "name": "Vietnam Power Development JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "VPG",
+    "name": "Viet Phat Import Export Trading Investment JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "VPH",
+    "name": "Van Phat Hung Corporation",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "VPI",
+    "name": "Van Phu - Invest Investment JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "VPL",
+    "name": "Vinpearl Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "VPR",
+    "name": "Vina Printing & Trading JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VPS",
+    "name": "Vietnam Pesticide JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "VPX",
+    "name": "Vpbank Securities JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "VQC",
+    "name": "Vinacomin Quacontrol Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VRC",
+    "name": "VRC Real Estate and Investment Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "VRE",
+    "name": "Vincom Retail JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "VRG",
+    "name": "Viet Nam Rubber Industrial Zone and Urban JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VSA",
+    "name": "Vietnam Ocean Shipping Agency Corp.",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "VSC",
+    "name": "Vietnam Container Shipping JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "VSE",
+    "name": "Vietnam Expressway Services JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VSF",
+    "name": "Vietnam Southern Food Corp.",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VSG",
+    "name": "South Vietnam Container Shipping Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VSH",
+    "name": "Vinh Son-Song Hinh Hydropower Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "VSI",
+    "name": "Water Supply Sewerage Construction and Investment Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "VSM",
+    "name": "Central Container JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "VSN",
+    "name": "Vissan JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VST",
+    "name": "Vietnam Sea Transport & Chartering JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VTA",
+    "name": "Vitaly JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VTB",
+    "name": "Viettronics Tan Binh JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "VTC",
+    "name": "VTC Telecommunications JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "VTD",
+    "name": "Vietourist Travel Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VTG",
+    "name": "Ba Ria - Vung Tau Tourist Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VTH",
+    "name": "Viet Thai Electric Cable Corporation",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "VTJ",
+    "name": "Vi Na Ta Ba Trading & Investment JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "VTK",
+    "name": "Viettel Consultancy and Services Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VTO",
+    "name": "Vietnam Tanker Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "VTP",
+    "name": "Viettel Post JSC",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "VTQ",
+    "name": "Viet Trung Quang Binh Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VTR",
+    "name": "Vietnam Travel and Marketing Transports Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VTV",
+    "name": "Vicem Cement Materials & Transportation JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "VTZ",
+    "name": "Viet Thanh Plastic Trading and Manufacturing Joint Stock Co",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "VUA",
+    "name": "Stanley Brothers Securities Incorporation",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VVS",
+    "name": "Vietnam Machine Investment Development Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "VW3",
+    "name": "VIWASEEN3 Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "VXT",
+    "name": "Transport - Warehousing and Trade service Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "WCS",
+    "name": "West Coach Station JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "WSB",
+    "name": "Saigon Beer Western Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "WSS",
+    "name": "Wall Street Securities Co.",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "WTC",
+    "name": "Vinacomin Waterway Transport Joint Stock Co",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "X20",
+    "name": "X20 JSC",
+    "exchange": "HNX"
+  },
+  {
+    "symbol": "XMC",
+    "name": "Vinaconex Xuan Mai Concrete & Construction JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "XMD",
+    "name": "Xuan Mai - Dao Tu JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "XMP",
+    "name": "Xuan Minh Hydro power Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "XPH",
+    "name": "Hanoi Soap JSC",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "YBC",
+    "name": "YenBai Cement and Minerals Joint Stock Company",
+    "exchange": "UPCOM"
+  },
+  {
+    "symbol": "YBM",
+    "name": "YBM Joint Stock Company",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "YEG",
+    "name": "Yeah1 Group Corp.",
+    "exchange": "HOSE"
+  },
+  {
+    "symbol": "YTC",
+    "name": "Ho Chi Minh City Medial Import Export Joint Stock Co",
+    "exchange": "UPCOM"
+  }
+]
